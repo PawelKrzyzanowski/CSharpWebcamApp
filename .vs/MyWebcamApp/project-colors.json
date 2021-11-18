@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56717de3-7bb7-4e9f-b574-430be288d28b": {
+      "ProjectGuid": "56717de3-7bb7-4e9f-b574-430be288d28b",
+      "DisplayName": "MyWebcamApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

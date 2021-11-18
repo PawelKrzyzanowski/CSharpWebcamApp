@@ -1,0 +1,17 @@
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\obj\Debug\MyWebcamApp.csproj.AssemblyReference.cache
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\obj\Debug\MyWebcamApp.Form1.resources
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\obj\Debug\MyWebcamApp.Properties.Resources.resources
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\obj\Debug\MyWebcamApp.csproj.GenerateResource.cache
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\obj\Debug\MyWebcamApp.csproj.CoreCompileInputs.cache
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\bin\Debug\MyWebcamApp.exe.config
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\bin\Debug\MyWebcamApp.exe
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\bin\Debug\MyWebcamApp.pdb
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\bin\Debug\AForge.dll
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\bin\Debug\AForge.Video.dll
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\bin\Debug\AForge.xml
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\bin\Debug\AForge.Video.xml
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\obj\Debug\MyWebcamApp.csproj.CopyComplete
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\obj\Debug\MyWebcamApp.exe
+C:\Users\pakrz\source\repos\MyWebcamApp\MyWebcamApp\obj\Debug\MyWebcamApp.pdb
